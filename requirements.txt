@@ -1,5 +1,5 @@
 SpeechRecognition
-python3-pyaudio
+# USE APT!! python3-pyaudio
 googletrans==3.1.0a0
 gtts
 playsound
